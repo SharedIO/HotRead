@@ -1,2 +1,2 @@
 # HotRead
-Hot Read for Chinese Student Books.
+Hot Read for Chinese Student Books and Readings.
